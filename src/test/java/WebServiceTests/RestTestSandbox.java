@@ -5,8 +5,13 @@ package WebServiceTests;
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ *
+ *
+ * currently this is not using common components properly, at some point I need to update the code to clean it up.
+ *
 */
 
+        import CommonComponents.CommonObjects;
         import com.jayway.restassured.RestAssured;
         import com.jayway.restassured.response.ValidatableResponse;
         import static com.jayway.restassured.RestAssured.expect;
@@ -37,7 +42,7 @@ package WebServiceTests;
 
 
 //Begin Main
-public class shouldRequestAndGetCustomerInfo {
+public class RestTestSandbox extends CommonObjects {
 
 
     @Before
