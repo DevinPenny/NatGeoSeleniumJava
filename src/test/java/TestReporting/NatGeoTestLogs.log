@@ -1,12 +1,12 @@
-Jan 24, 2017 1:57:51 PM CommonComponents.CommonObjects WebDriverSetup
+Jan 25, 2017 1:21:24 PM CommonComponents.CommonObjects WebDriverSetup
 INFO: executing tests with Firefox browser
-Jan 24, 2017 1:57:56 PM CommonComponents.CommonObjects WebDriverSetup
+Jan 25, 2017 1:21:30 PM CommonComponents.CommonObjects WebDriverSetup
 INFO: Test preparations complete!
-Jan 24, 2017 1:57:56 PM SeleniumTests.NationalGeographicSandbox VerifyPageTitle
+Jan 25, 2017 1:21:30 PM SeleniumTests.NationalGeographicSandbox VerifyPageTitle
 INFO: Verify page tittle to prove application page loaded
-Jan 24, 2017 1:57:56 PM SeleniumTests.NationalGeographicSandbox VerifyPageTitle
+Jan 25, 2017 1:21:30 PM SeleniumTests.NationalGeographicSandbox VerifyPageTitle
 INFO: Verify that the Page Title is: National Geographic 
-Jan 24, 2017 1:57:56 PM SeleniumTests.NationalGeographicSandbox VerifyPageTitle
+Jan 25, 2017 1:21:30 PM SeleniumTests.NationalGeographicSandbox VerifyPageTitle
 SEVERE: Page is missing page title!
-Jan 24, 2017 1:57:56 PM CommonComponents.CommonObjects WebDriverShutDown
+Jan 25, 2017 1:21:30 PM CommonComponents.CommonObjects WebDriverShutDown
 INFO: Test Clean up complete
